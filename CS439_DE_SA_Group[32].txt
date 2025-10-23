@@ -1,0 +1,8 @@
+Gilbert:
+    Setup the Github repo and shared the powerpoint
+    Worked on the jupyterlab, completing around a quarter to half of the problems 
+    Created a few graphs for the slides or powerpoint such as the histograms with normalized 
+    and not normalized data
+    
+Kareena:
+Shaan:
