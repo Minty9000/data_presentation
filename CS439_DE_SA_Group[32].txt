@@ -5,4 +5,8 @@ Gilbert:
     and not normalized data
     
 Kareena:
+  Worked on the presentation and slides.
+  Worked on obtaining the graphs and getting the color scheme, etc
+  Ensured everything was connected and ready to submit.
+
 Shaan:
