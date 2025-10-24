@@ -10,6 +10,6 @@ Kareena:
   Ensured everything was connected and ready to submit.
 
 Shaan:
-    Finished the code from plotting and creating the graphs
+   Finished the rest of the jupyterlab problems from creating the graphs and plotting scatterplots. 
     
 
