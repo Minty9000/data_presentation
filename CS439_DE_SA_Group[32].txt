@@ -10,3 +10,6 @@ Kareena:
   Ensured everything was connected and ready to submit.
 
 Shaan:
+    Finished the code from plotting and creating the graphs
+    
+
